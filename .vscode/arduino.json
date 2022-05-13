@@ -1,0 +1,7 @@
+{
+    "port": "COM13",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:arduinoisp",
+    "sketch": "picoI2CTest.ino"
+}
